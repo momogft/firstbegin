@@ -1,2 +1,2 @@
 # firstbegin
-小白头一次用gitgub
+*小白头一次用gitHub*
